@@ -1,3 +1,8 @@
+/*
+	Name: Word counter
+	Developer: Zaid Soomro
+	Date: March 2021
+*/
 #include <iostream>
 #include <conio.h>
 using namespace std;
